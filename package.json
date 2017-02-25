@@ -1,0 +1,30 @@
+{
+  "name": "ICEbreaker",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+},
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dallaswmorgan/ICEbreaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dallaswmorgan/ICEbreaker/issues"
+  },
+  "homepage": "https://github.com/dallaswmorgan/ICEbreaker#readme"
+}
